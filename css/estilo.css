@@ -2,13 +2,13 @@ body {
     font-family: 'Courier New', Courier, monospace;
     margin: 0 auto;
     width: 80%;
-    background-color: #f4f4f4;
+    background-color: #ffffff;
     color: #333;
 }
 
 
 #cabecalho {
-    background-color: #008080;
+    background-color: #a50081;
     color: white;
     padding: 10px 0;
     text-align: center;
